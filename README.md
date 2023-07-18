@@ -1,2 +1,2 @@
 # proyecto-QR
- Este es mi primer pryecto de la pagina Frontend mentor
+ Este es mi primer proyecto de la pagina Frontend mentor
